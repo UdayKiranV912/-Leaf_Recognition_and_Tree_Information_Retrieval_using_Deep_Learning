@@ -1,4 +1,5 @@
-                                                ![image](https://github.com/UdayKiranV912/-Leaf_Recognition_and_Tree_Information_Retrieval_using_Deep_Learning/assets/85879936/29d531b0-749e-4894-9176-bd5b8e3ad9b8)
+![image](https://github.com/UdayKiranV912/-Leaf_Recognition_and_Tree_Information_Retrieval_using_Deep_Learning/assets/85879936/19cb59af-f373-4e68-a1ec-814a0292f5ca)
+
 
 ![image](https://github.com/UdayKiranV912/-Leaf_Recognition_and_Tree_Information_Retrieval_using_Deep_Learning/assets/85879936/fd859d1e-5f0b-41c0-bf14-07272fb48d3d)
 
